@@ -1,0 +1,2 @@
+# kaishanwangpricesearch
+通过开山网的商家编码查询商品价格
